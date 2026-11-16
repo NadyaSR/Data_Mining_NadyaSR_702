@@ -1,0 +1,42 @@
+=============================================================================
+KASUS 3 - KINERJA DAN GAJI KARYAWAN PERUSAHAAN (130 DATA)
+=============================================================================
+
+Deskripsi Kasus:
+Data evaluasi karyawan sebuah perusahaan. Departemen HRD ingin menganalisis 
+hubungan pendidikan, masa kerja, gaji, dan skor kinerja.
+
+File Data:
+data_3_kinerja_karyawan.csv 
+(pemisah koma, jadi pd.read_csv('data_3_kinerja_karyawan.csv') tanpa sep)
+
+Daftar Variabel:
+-----------------------------------------------------------------------------
+No. | Variabel          | Jenis     | Keterangan
+-----------------------------------------------------------------------------
+1.  | Bulan_Evaluasi    | kategorik | bulan penilaian
+2.  | Departemen        | kategorik | unit kerja
+3.  | Pendidikan        | kategorik | SMA / D3 / S1 / S2
+4.  | Status_Karyawan   | kategorik | Tetap / Kontrak / Magang
+5.  | Usia              | numerik   | tahun
+6.  | Masa_Kerja        | numerik   | tahun
+7.  | Gaji              | numerik   | juta rupiah per bulan
+8.  | Skor_Kinerja      | numerik   | skala 0-100
+-----------------------------------------------------------------------------
+
+Alur Pengerjaan:
+Pengerjaan mengikuti dua notebook materi, yaitu:
+1. Data Cleansing
+   - Mistake during data entry
+   - Redundant whitespace
+   - Impossible value
+   - Missing value
+   - Outlier
+
+2. Data Transformation
+   - Scaling
+   - Encoding
+   - Discretization
+   - Measurement and aggregation
+   - Attribute construction
+   - Smoothing
