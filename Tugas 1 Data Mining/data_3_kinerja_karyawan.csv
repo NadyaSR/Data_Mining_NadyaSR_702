@@ -1,0 +1,131 @@
+Bulan_Evaluasi,Departemen,Pendidikan,Status_Karyawan,Usia,Masa_Kerja_Tahun,Gaji_Juta,Skor_Kinerja
+Januari,Logistik,S1,Tetap,29.0,9.0,10.62,72.4
+Januari,Keuangan,S1,Tetap,31.0,8.5,9.95,93.5
+Januari,IT  ,S-1,Kontrak,28.0,2.6,9.7,70.7
+Januari,HRD,SMAA,Kontrak,36.0,3.8,4.91,75.9
+Januari,logistik,S1,Tetap,29.0,,11.8,85.5
+Januari ,Pemasaran,S1  ,Kontrak,45.0,9.1,11.37,79.8
+  Januari ,  Keuangan ,SMA,Tetap,27.0,6.6,7.06,86.5
+Februari,Pemasaran,S2,Tetap,27.0,7.0,12.21,60.1
+Februari,Produksi, D3,Kontrak,25.0,5.0,7.76,79.7
+Februari,hrd,  S2 ,tetap,37.0,5.6,12.64,67.6
+Februari,HRD,SMA,N/A,26.0,6.0,4.05,86.2
+Februari,Keuangan,SMA,Tetap,75.0,3.6,5.96,67.4
+Februari,HRD,S2,Tetap,28.0,8.0,14.39,82.0
+Februari,IT,d3,Tetap,0.0,8.2,7.95,71.6
+Februari,Logistik,D3,Tetap,47.0,15.3,9.71,89.4
+ Februari,Logistik,S1,Tetap,29.0,-5.0,8.18,67.3
+Februari,Logistik,-,Kontrak,20.0,0.0,6.64,70.0
+Februari,HRD,SMA,Tetap ,38.0,6.4,6710000.0,74.9
+Februari,Pemasaran,,Tetap,38.0,15.7,,120.0
+Maret,Keuangan,S1,Tetap,34.0,13.1,11.83,70.1
+Maret,IT,S1  ,Tetap,34.0,48.0,9.94,67.3
+Mart,IT,,Tetap,42.0,8.0,11.38,79.8
+Maret,IT,S1,TETAP,-30.0,,8.32,78.0
+MARET,Keuangan,N/A,Magang  ,34.0,,10.17,70.2
+Mart,IT,SMA,Kontrak,,10.5,6.73,78.8
+April,Pemasaran,S1,Kontrak,30.0,8.8,10.71,83.8
+April,Produksi,SMA,Kontrak,34.0,6.1,,68.6
+April,HRD,D3,Kontrak,33.0,4.8,5.78,66.1
+April,Keuangan,S1,Kontrak,41.0,,11.98,81.5
+April,HRD,SMA,Kontrak,23.0,3.0,5.09,80.3
+April,Logistik,S1,Tetap,31.0,3.4,8.91,82.6
+April,Logistik,S1,Tetap,31.0,3.4,8.91,82.6
+April,Keuangan,SMA,Kontrak,43.0,9.3,-9.0,78.1
+April,HRD,S1,Tetap,26.0,3.8,8.73,84.0
+April,IT,S-1,Kontrak,37.0,17.0,,71.2
+April,Logistik,S1,Tetap,33.0,4.2,10.8,83.1
+April  ,Keuangan,s1,Tetap,37.0,1.1,9.56,78.7
+April,HRD,SMA,Tetap,45.0,7.1,7.23,80.6
+mei,Keuangan,SMA,tetap,23.0,3.0,4.03,74.8
+Mei,Pemasaran,SMA,Tetap,28.0,,7.09,96.1
+MEI,IT,S-1,Tetap,32.0,8.6,9.96,76.2
+mei,Logistik,S1,tetap,250.0,0.0,8.9,79.1
+Mei,Pemasaran,S1,Unknown,22.0,2.0,9.35,77.9
+Mei,HRD,S1,Kontrak,33.0,1.6,9.2,74.8
+Mei,IT,S2,Kontrak,38.0,9.3,14.87,
+Mei,IT,S1,Tetap,35.0,15.0,12.59,78.8
+Mei,Logistik,S2,Magang,31.0,5.3,12.14,64.0
+mei,Produksi,SMA,Kontrak,34.0,9.0,7190000.0,86.4
+Mei,Pemasaran,S1,,38.0,18.0,13460000.0,94.8
+Mei,Logistk,SMA,KONTRAK,37.0,10.1,6.81,93.1
+Mei,,D3,Tetap,,2.2,0.0,84.4
+Mei,HRD,S2,Maganng,23.0,,12.82,87.2
+Mei,IT,SMA,Tetap,,7.1,5.31,92.6
+Mei,Produksi,D3,Maganng,22.0,2.0,120.0,95.8
+,Pemasaran,SMA,Tetap,40.0,5.4,6.24,150.0
+Juni,,S1,Tetap,39.0,6.5,-7.5,80.2
+ Juni,Keuangan,S1,Tetap,29.0,4.7,,62.3
+Juni,Pemasaran,S1,Tetap,35.0,15.0,,77.6
+Juni,I T,S1,Kontrak,39.0,5.3,10.32,75.9
+Juni,Produski,S1,Tetap,32.0,12.0,0.0,85.7
+Juni,Logistik,S2,,28.0,8.0,15.16,62.5
+Juli,Logistik,SMA,Kontrak,39.0,3.3,5.83,
+Juli,Produksi,S2,Tetap,,5.8,12.68,70.5
+Juli,Keuangan,S1,Magang,42.0,8.1,9.7,94.5
+Juli,Keuangan,s1,Tetap,27.0,6.8,85.0,81.7
+Juli,Keuangan,S1,Tetap,36.0,-2.0,,72.4
+Juli,HRD,D3,Kontrak,34.0,1.7,6.67,80.9
+JULI,Pemasaran,D3,Tetap,41.0,4.8,7.3,81.3
+Juli,Logistik,S1,Kontrak,32.0,5.9,10.46,70.5
+Juli,HRD,S1,Tetap,,4.5,10.63,86.4
+Juli,IT,SMA,Tetap,36.0,9.7,8.39,68.3
+Juli,IT,SMA,Tetap,36.0,9.7,8.39,68.3
+Jul,Produksi,,Tetap,27.0,5.2,10.34,
+Agustus,Produksi,S2,Tetap,33.0,2.5,11.72,91.0
+Agustus,HRD,S2,Tetap,42.0,10.2,,74.1
+Agustus,IT,S1,Kontrak,24.0,,9.81,-20.0
+Agustus,Keuangan,D3,Kontrak,31.0,3.7,6.08,77.6
+Agustus,Pemasaran,S-1,Tetp,31.0,11.0,10.95,
+Agutus,HRD,S2,  Tetap ,20.0,0.0,12.33,78.3
+Agustus,Pemasaran,S1,Tetp,37.0,10.1,11.78,72.2
+Agustus,Logistik,SMA,Tetp,30.0,1.1,95.0,74.6
+Agustus,Keuangan,S1,Kontrak,32.0,2.8,10.54,78.1
+Agustus,Produksi,S1,Kontrak,35.0,7.2,10.32,
+Agustus,Logistik, S1,Tetap,25.0,3.3,9.01,12.0
+September,IT,S1,Kontrak,25.0,5.0,10.59,67.6
+September,KEUANGAN,D-3,Kontrak,43.0,19.9,11.72,92.0
+September  ,Pemasaran,S1,Kontrak,34.0,6.8,10250000.0,72.7
+,IT,S1,Kontrak,41.0,9.9,11.38,86.4
+September,IT,S1,,44.0,6.4,9.39,77.3
+September,,S1,Tetap,36.0,7.8,10.38,94.4
+September,Produski,Unknown,Tetap,27.0,5.0,5.74,88.3
+N/A,pemasaran,S2,Kontrak,,8.4,14.81,62.8
+September,HRD,S2,Tetap,32.0,,14.66,72.8
+September,Keuangan,S1,Kontrak,82.0,10.0,10.69,88.9
+September,HRD,S1,  Tetap ,37.0,4.1,7610000.0,80.2
+September  ,HRD ,S2,Tetap,40.0,9.1,15.41,
+Oktober,Keuangan,S1,TETAP,38.0,6.3,9.17,78.9
+Oktober,-,D3,Kontrak,31.0,5.2,6.98,79.4
+oktober,Logistik,s1,Kontrak,40.0,9.4,11.26,80.1
+Oktober,HRD , S1, Tetap,29.0,7.7,10.36,81.0
+Oktober,Pemasaran,S1,Kontrak  ,37.0,4.3,10.99,75.3
+Oktober,PRODUKSI,S1,Tetap,32.0,8.3,11.73,
+Oktober,Logistik  ,S1,Tetap,28.0,8.0,8.45,83.6
+Okotber,Keuangan ,SMA, Tetap,39.0,6.9,6230000.0,5.0
+  Oktober ,Produksi,SMA,Kontrak,37.0,3.6,,62.9
+Oktober,Logistik,D3,Tetap,30.0,7.9,6.84,67.6
+Oktober,Logistik,D3,Tetap,30.0,7.9,6.84,67.6
+Oktober,Pemasaran  ,SMA  ,Kontrak,35.0,14.0,7.57,75.6
+Oktober,Pemasaran,S2,Kontrak,41.0,6.5,13.93,84.5
+Oktober,Produksi,SMA,Tetap,44.0,5.1,6.54,69.7
+Oktober,IT ,D3,Tetap,31.0,8.2,8.36,89.8
+November,,,Tetap,39.0,5.7,0.0,89.2
+Unknown,N/A,S1,Tetap,42.0,5.5,11.36,94.7
+November,Produksi,SMA,Tetap,27.0,3.8,4.7,78.4
+November,Logistik,S1,Magang,34.0,52.5,10.51,82.7
+,Keuangan,D-3,Tetap,24.0,4.0,6.99,64.8
+November,Logistik,S1,Tetap,34.0,1.9,9.01,86.6
+November,IT,S2,Kontrak,160.0,1.8,12.86,81.5
+November,Pemasaran,S2,kontrak,36.0,12.5,15.46,80.5
+November,Unknown,S1,Kontrak,41.0,11.1,12.45,
+November,produksi,S1,Tetap,35.0,6.6,9.46,77.1
+November,Pemasaran,S1,Magang  ,26.0,6.0,10.39,73.7
+November,Logistik,D3,Tetap,34.0,14.0,10.26,85.4
+November,Produksi,D3,Kontrak,,3.0,6.15,76.2
+Desember,Produski,D3,-,26.0,1.6,7290000.0,86.7
+,HRD,S2,,50.0,4.7,12.57,86.8
+Desember,Pemasaran,SMA,Kontrak,34.0,4.6,5.41,84.7
+Desember,IT,D3,Tetap,33.0,7.7,7.41,80.7
+-,Logistik,sma,Tetap,28.0,2.8,5.64,66.7
+Desember,Keuangan,  D3 ,Kontrak,,4.9,8360000.0,69.7
